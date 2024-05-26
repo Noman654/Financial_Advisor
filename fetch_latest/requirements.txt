@@ -1,0 +1,6 @@
+vertexai
+plotly
+pandas
+yfinance
+requests
+bs4
